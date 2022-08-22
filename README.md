@@ -1,4 +1,4 @@
-# UserName-and-Password-Validation-Python
+# UserName and Password Validation Python
 UserName and Password Validation Python
 
 This code shows how to validate a username and Password in python 
