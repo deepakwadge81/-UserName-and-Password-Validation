@@ -1,15 +1,4 @@
 #!/usr/bin/env python3
-
-__author__ = "Soumil Nitin Shah"
-__copyright__ = "Copyright 2007, The Cogent Project"
-__credits__ = ["Rob Knight"]
-__license__ = "GPL"
-__version__ = "1.0.1"
-__maintainer__ = "Soumilshah"
-__email__ = "soushah@my.bridgeport.edu"
-__status__ = "Testing"
-
-
 class Authentication(object):
     def __init__(self, username = ''):
         self.username = username
